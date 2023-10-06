@@ -1,16 +1,10 @@
-![Banner](Portfólio.gif)
+![Banner](midias/images/logo.svg)
 
 # Nebulimed | Assitência Técnica
 
 ## Como executar o projeto
 
-1. Clone o projeto com o link:
-
-![clonar](midias/clonar-repositorio.png)
-
-2. Certifique-se de estar no diretório do projeto:
-
-![mudar-pasta](midias/mudar-pasta.png)
+![Executing](midias/images/executing.png)
 
 ## Sobre o projeto
 
