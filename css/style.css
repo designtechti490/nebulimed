@@ -466,6 +466,7 @@ header .navbar.navbar-light .nav-link.active {
   font-weight: bold;
   font-family: "Arial", cursive;
   color: #1f90ee;
+  vertical-align: middle;
 }
 .feature-destination,
 .slider-wrap {
