@@ -256,46 +256,6 @@ header .navbar.navbar-light .nav-link.active {
   text-decoration: none;
 }
 
-.social-media .email-icon::before {
-  content: url(../midias/icons/email.png);
-  zoom: 50%;
-}
-
-.social-media .twitter-icon::before {
-  content: url(../midias/icons/twitter.png);
-  zoom: 50%;
-}
-
-.social-media .github-icon::before {
-  content: url(../midias/icons/github.png);
-  zoom: 50%;
-}
-
-.social-media .linkedin-icon::before {
-  content: url(../midias/icons/linkedin.png);
-  zoom: 50%;
-}
-
-.social-media .youtube-icon::before {
-  content: url(../midias/icons/youtube.png);
-  zoom: 50%;
-}
-
-.social-media .medium-icon::before {
-  content: url(../midias/icons/medium.png);
-  zoom: 50%;
-}
-
-.social-media .insta-icon::before {
-  content: url(../midias/icons/instagram.png);
-  zoom: 50%;
-}
-
-.social-media .spotify-icon::before {
-  content: url(../midias/icons/spotify.png);
-  zoom: 50%;
-}
-
 .github-projects {
   text-align: center;
 }
