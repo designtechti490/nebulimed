@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Aldrich&family=Montserrat&family=Rye&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Material + Symbols + Outlined:opsz,wght,FILL,GRAD@20..48,100.700,0.1,-50.200");
 
 body {
   background: #fff;
@@ -1196,7 +1195,7 @@ textarea.form-control {
 }
 footer {
   text-align: center;
-  background: url("bg.jpg");
+  /* background: url("bg.jpg"); */
   padding: 40px 0;
   background-color: #000;
 }
