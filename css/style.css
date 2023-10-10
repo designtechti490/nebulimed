@@ -192,9 +192,39 @@ header .navbar.navbar-light .nav-link.active {
   z-index: 2;
 }
 
-.site-hero.overlay {
+.site-hero.overlay.index {
   position: relative;
-  background-image: url(../midias/big_image_1.png);
+  background-position: center;
+  background-size: 110%;
+  background-image: url(../midias/images/big_image_1.jpg);
+}
+
+.site-hero.overlay.about-page {
+  position: relative;
+  background-position: center;
+  background-size: 110%;
+  background-image: url(../midias/images/big_image_2.jpg);
+}
+
+.site-hero.overlay.e-commerce {
+  position: relative;
+  background-position: center;
+  background-size: 110%;
+  background-image: url(../midias/images/big_image_3.jpg);
+}
+
+.site-hero.overlay.blog {
+  position: relative;
+  background-position: center;
+  background-size: 110%;
+  background-image: url(../midias/images/big_image_4.jpg);
+}
+
+.site-hero.overlay.contact {
+  position: relative;
+  background-position: center;
+  background-size: 110%;
+  background-image: url(../midias/images/big_image_5.jpg);
 }
 
 .site-hero.overlay:before {
@@ -599,6 +629,7 @@ header .navbar.navbar-light .nav-link.active {
   top: 0;
 }
 .section-cover {
+  background-image: url(../midias/images/big_image_6.jpg);
   background-size: cover;
   position: relative;
 }
@@ -617,7 +648,10 @@ header .navbar.navbar-light .nav-link.active {
   color: #fff;
 }
 .section-cover h2 {
-  color: #fff;
+  background: linear-gradient(to bottom, #e0e0e0, #b3b3b3);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 0.5px;
 }
 .top-destination .place {
   display: block;
